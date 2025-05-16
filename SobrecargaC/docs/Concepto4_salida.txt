@@ -1,0 +1,9 @@
+Concepto 4
+
+Salida de la Aplicación directa:
+    Valor inicial: 5
+    Valor después de la operación: 6
+Salida de Completación de código:
+    Old: 7, New: 8
+Para la salida de "detección de bugs", usar el mismo main que en "completación de código", la salida será la misma 
+    Old: 7, New: 8

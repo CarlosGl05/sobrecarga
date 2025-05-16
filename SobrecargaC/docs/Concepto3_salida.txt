@@ -1,0 +1,9 @@
+Concepto 3 
+
+Salida de la Aplicación directa:
+    Empleado 1: Nombre: Carlos, Id: 1
+    Empleado 2: Nombre: Andrés, Id: 2
+Salida de Completación de código:
+    Empleado[101]: Ana
+Para la salida de "detección de bugs", usar el mismo main que en "completación de código", la salida será:
+    ID= 101, Nombre= Ana

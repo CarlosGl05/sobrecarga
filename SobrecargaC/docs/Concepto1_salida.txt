@@ -1,0 +1,8 @@
+Concepto 1
+
+Salida de la Aplicación directa:
+    La suma de los complejos es: 4 + 1i
+Salida de Completación de código:
+    (2, 2.5)
+Para la salida de "detección de bugs", usar el mismo main que en "completación de código", la salida será la misma 
+    (2, 2.5)

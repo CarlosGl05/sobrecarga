@@ -1,0 +1,11 @@
+Concepto 2
+
+Salida de la Aplicación directa:
+    true
+    false
+Salida de Completación de código:
+    true
+    false
+Para la salida de "detección de bugs", usar el mismo main que en "completación de código", la salida será la misma 
+    true
+    false

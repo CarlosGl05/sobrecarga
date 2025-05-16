@@ -1,0 +1,8 @@
+Concepto 5
+
+Salida de la Aplicación directa:
+    hello
+Salida de Completación de código:
+    Mundo
+Para la salida de "detección de bugs", usar el mismo main que en "completación de código", la salida será la misma 
+    Mundo
